@@ -17,7 +17,7 @@ pkg clean
 packages_list=(
   curl git git-lfs wget zip grep bc htop nano openssh rsync net-tools
   python python2 clang nodejs rust golang ruby
-  sqlite perl openjdk-17 termux-exec termux-api
+  sqlite perl openjdk-17 termux-exec termux-api gradle maven
 )
 
 # Install the packages
