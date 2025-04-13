@@ -15,7 +15,7 @@ pkg clean
 
 # Packages list add or remove your needed packages
 packages_list=(
-  curl wget zip grep bc htop nano openssh rsync net-tools
+  curl git git-lfs wget zip grep bc htop nano openssh rsync net-tools
   python python2 clang nodejs rust golang ruby
   sqlite perl openjdk-17 termux-exec termux-api
 )
